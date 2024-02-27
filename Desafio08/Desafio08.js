@@ -1,4 +1,4 @@
-let numero = 11;
+let numero = 100;
 
 while (numero > 0) {
     numero--;
